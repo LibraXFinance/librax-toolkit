@@ -1,0 +1,88 @@
+{
+  "name": "PancakeSwap Top 100",
+  "timestamp": "2022-03-01T08:36:38.679Z",
+  "version": {
+    "major": 2,
+    "minor": 16,
+    "patch": 12
+  },
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": [
+    "pancakeswap",
+    "top 100"
+  ],
+  "tokens": [
+    {
+      "name": "Astar",
+      "address": "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
+      "symbol": "WASTR",
+      "decimals": 18,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
+    },
+    {
+      "name": "Shiden",
+      "address": "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
+      "symbol": "WSDN",
+      "decimals": 18,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
+    },
+    {
+      "name": "USDC",
+      "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+    },
+    {
+      "name": "DAI",
+      "address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
+    },
+    {
+      "name": "ETH",
+      "address": "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
+    },
+    {
+      "name": "BTC",
+      "address": "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
+      "symbol": "BTC",
+      "decimals": 18,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
+    },
+    {
+      "name": "MATIC",
+      "address": "0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
+    },
+    {
+      "name": "BNB",
+      "address": "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
+    },
+    {
+      "name": "BUSD",
+      "address": "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
+    }
+  ]
+}
