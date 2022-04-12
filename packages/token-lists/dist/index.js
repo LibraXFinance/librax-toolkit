@@ -16,7 +16,7 @@ var version$6 = {
 };
 var logoURI$6 = "https://librax.finance/logo.png";
 var keywords$6 = [
-	"twinklibraxleswap",
+	"librax",
 	"default"
 ];
 var tokens$6 = [
