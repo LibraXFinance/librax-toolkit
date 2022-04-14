@@ -1,5 +1,5 @@
 {
-  "name": "PancakeSwap Top 100",
+  "name": "LibraX Top 100",
   "timestamp": "2022-03-01T08:36:38.679Z",
   "version": {
     "major": 2,
@@ -8,7 +8,7 @@
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
-    "pancakeswap",
+    "librax",
     "top 100"
   ],
   "tokens": [
