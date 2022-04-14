@@ -197,7 +197,7 @@ var extendedtList = {
 	tokens: tokens$5
 };
 
-var name$4 = "PancakeSwap Top 15";
+var name$4 = "LibraX Top 15";
 var timestamp$4 = "2022-03-01T08:37:57.425Z";
 var version$4 = {
 	major: 2,
@@ -292,7 +292,7 @@ var top15List = {
 	tokens: tokens$4
 };
 
-var name$3 = "PancakeSwap Top 100";
+var name$3 = "LibraX Top 100";
 var timestamp$3 = "2022-03-01T08:36:38.679Z";
 var version$3 = {
 	major: 2,
@@ -301,7 +301,7 @@ var version$3 = {
 };
 var logoURI$3 = "https://pancakeswap.finance/logo.png";
 var keywords$3 = [
-	"pancakeswap",
+	"librax",
 	"top 100"
 ];
 var tokens$3 = [
