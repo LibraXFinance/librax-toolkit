@@ -1,6 +1,6 @@
 {
   "name": "@librax/eslint-config-librax",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Eslint config for LibraX",
   "main": "lib/index.js",
   "files": [
