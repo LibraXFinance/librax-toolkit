@@ -47,7 +47,7 @@ it("renders ConnectModal correctly", () => {
     }
 
     .c21 {
-      color: #7A6EAA;
+      color: #FFFFFF;
       font-size: 16px;
       font-weight: 400;
       line-height: 1.5;
@@ -209,7 +209,7 @@ it("renders ConnectModal correctly", () => {
       transition: background-color 0.2s,opacity 0.2s;
       height: 48px;
       padding: 0 24px;
-      background-color: #7A6EAA;
+      background-color: #FFFFFF;
       color: #FFFFFF;
       width: 100%;
     }
@@ -265,7 +265,7 @@ it("renders ConnectModal correctly", () => {
       -webkit-align-self: center;
       -ms-flex-item-align: center;
       align-self: center;
-      fill: #7A6EAA;
+      fill: #FFFFFF;
       -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
       flex-shrink: 0;

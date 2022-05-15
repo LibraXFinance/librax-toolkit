@@ -31,7 +31,7 @@ it("renders correctly", () => {
     }
 
     .c5 {
-      color: #7A6EAA;
+      color: #FFFFFF;
       font-size: 12px;
       font-weight: 400;
       line-height: 1.5;
@@ -55,19 +55,19 @@ it("renders correctly", () => {
     }
 
     .c3::-webkit-input-placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c3::-moz-placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c3:-ms-input-placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c3::placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c3:disabled {
@@ -100,19 +100,19 @@ it("renders correctly", () => {
     }
 
     .c4::-webkit-input-placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c4::-moz-placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c4:-ms-input-placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c4::placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c4:focus:not(:disabled) {
@@ -191,7 +191,7 @@ it("renders correctly with unit prop", () => {
     }
 
     .c7 {
-      color: #7A6EAA;
+      color: #FFFFFF;
       font-size: 12px;
       font-weight: 400;
       line-height: 1.5;
@@ -215,19 +215,19 @@ it("renders correctly with unit prop", () => {
     }
 
     .c3::-webkit-input-placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c3::-moz-placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c3:-ms-input-placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c3::placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c3:disabled {
@@ -244,7 +244,7 @@ it("renders correctly with unit prop", () => {
     .c6 {
       margin-left: 4px;
       text-align: right;
-      color: #7A6EAA;
+      color: #FFFFFF;
       white-space: nowrap;
     }
 
@@ -267,19 +267,19 @@ it("renders correctly with unit prop", () => {
     }
 
     .c4::-webkit-input-placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c4::-moz-placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c4:-ms-input-placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c4::placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c4:focus:not(:disabled) {
@@ -370,7 +370,7 @@ it("renders correctly with unit prop and switchEditingUnits", () => {
       -webkit-align-self: center;
       -ms-flex-item-align: center;
       align-self: center;
-      fill: #7A6EAA;
+      fill: #FFFFFF;
       -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
       flex-shrink: 0;
@@ -384,7 +384,7 @@ it("renders correctly with unit prop and switchEditingUnits", () => {
     }
 
     .c7 {
-      color: #7A6EAA;
+      color: #FFFFFF;
       font-size: 12px;
       font-weight: 400;
       line-height: 1.5;
@@ -408,19 +408,19 @@ it("renders correctly with unit prop and switchEditingUnits", () => {
     }
 
     .c3::-webkit-input-placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c3::-moz-placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c3:-ms-input-placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c3::placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c3:disabled {
@@ -503,7 +503,7 @@ it("renders correctly with unit prop and switchEditingUnits", () => {
     .c6 {
       margin-left: 4px;
       text-align: right;
-      color: #7A6EAA;
+      color: #FFFFFF;
       white-space: nowrap;
     }
 
@@ -526,19 +526,19 @@ it("renders correctly with unit prop and switchEditingUnits", () => {
     }
 
     .c4::-webkit-input-placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c4::-moz-placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c4:-ms-input-placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c4::placeholder {
-      color: #7A6EAA;
+      color: #FFFFFF;
     }
 
     .c4:focus:not(:disabled) {
