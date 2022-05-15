@@ -286,7 +286,7 @@ exports[`renders correctly 1`] = `
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   align-self: center;
-  fill: #7A6EAA;
+  fill: #FFFFFF;
   -webkit-flex-shrink: 0;
   -ms-flex-negative: 0;
   flex-shrink: 0;
@@ -307,7 +307,7 @@ exports[`renders correctly 1`] = `
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   align-self: center;
-  fill: #7A6EAA;
+  fill: #FFFFFF;
   -webkit-flex-shrink: 0;
   -ms-flex-negative: 0;
   flex-shrink: 0;
@@ -318,7 +318,7 @@ exports[`renders correctly 1`] = `
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   align-self: center;
-  fill: #7A6EAA;
+  fill: #FFFFFF;
   -webkit-flex-shrink: 0;
   -ms-flex-negative: 0;
   flex-shrink: 0;
@@ -405,7 +405,7 @@ exports[`renders correctly 1`] = `
 }
 
 .c29 {
-  color: #7A6EAA;
+  color: #FFFFFF;
   font-size: 16px;
   font-weight: 600;
   line-height: 1.5;
@@ -462,7 +462,7 @@ exports[`renders correctly 1`] = `
   align-items: center;
   border: 0;
   background: transparent;
-  color: #7A6EAA;
+  color: #FFFFFF;
   cursor: pointer;
   font-weight: 400;
   display: -webkit-box;
@@ -1013,7 +1013,7 @@ exports[`renders correctly 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  color: #7A6EAA;
+  color: #FFFFFF;
   font-size: 16px;
   font-weight: 400;
   padding: 0 16px;
@@ -1035,7 +1035,7 @@ exports[`renders correctly 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  color: #7A6EAA;
+  color: #FFFFFF;
   font-size: 16px;
   font-weight: 400;
   padding: 0 16px;
@@ -1066,7 +1066,7 @@ exports[`renders correctly 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  color: #7A6EAA;
+  color: #FFFFFF;
   font-size: 16px;
   font-weight: 400;
   padding: 0 16px;
@@ -1097,7 +1097,7 @@ exports[`renders correctly 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  color: #7A6EAA;
+  color: #FFFFFF;
   font-size: 16px;
   font-weight: 400;
   padding: 4px 4px 0px 4px;
