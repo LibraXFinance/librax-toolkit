@@ -20,7 +20,7 @@ interface Props {
 }
 
 const WalletWrapper = styled(Box)`
-  border-bottom: 1px solid ${({ theme }) => theme.colors.cardBorder};
+  
 `;
 
 /**
