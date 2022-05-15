@@ -28,8 +28,8 @@ const getBaseThumbStyles = ({ isMax, disabled }: StyledInputProps) => `
   box-shadow: none;
   border: 0;
   cursor: ${getCursorStyle};
-  width: 24px;
-  height: 32px;
+  width: 36px;
+  height: 30px;
   filter: ${disabled ? "grayscale(100%)" : "none"};
   transform: translate(-2px, -2px);
   transition: 200ms transform;
@@ -57,10 +57,10 @@ export const SliderLabel = styled(Text)<SliderLabelProps>`
 
 export const BunnyButt = styled.div<DisabledProp>`
   background: url(${bunnyButt}) no-repeat;
-  height: 32px;
+  height: 48px;
   filter: ${({ disabled }) => (disabled ? "grayscale(100%)" : "none")};
   position: absolute;
-  width: 15px;
+  width: 48px;
 `;
 
 export const BunnySlider = styled.div`
@@ -71,7 +71,7 @@ export const BunnySlider = styled.div`
 
 export const StyledInput = styled.input<StyledInputProps>`
   cursor: ${getCursorStyle};
-  height: 32px;
+  height: 28px;
   position: relative;
 
   ::-webkit-slider-thumb {
@@ -91,7 +91,7 @@ export const BarBackground = styled.div<DisabledProp>`
   background-color: ${({ theme, disabled }) => theme.colors[disabled ? "textDisabled" : "inputSecondary"]};
   height: 2px;
   position: absolute;
-  top: 18px;
+  top: 14px;
   width: 100%;
 `;
 
@@ -100,5 +100,5 @@ export const BarProgress = styled.div<DisabledProp>`
   filter: ${({ disabled }) => (disabled ? "grayscale(100%)" : "none")};
   height: 10px;
   position: absolute;
-  top: 18px;
+  top: 12px;
 `;

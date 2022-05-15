@@ -4807,14 +4807,14 @@ var socials = [
         icon: "Twitter",
         href: "https://twitter.com/LibraXAstar",
     },
-    {
-        label: "Telegram",
-        icon: "Telegram",
-        items: [
-            {
-                label: "English",
-                href: "https://t.me/LibraX",
-            },
+    // {
+    //     label: "Telegram",
+    //     icon: "Telegram",
+    //     items: [
+    //         {
+    //             label: "English",
+    //             href: "https://t.me/LibraX",
+    //         },
             // {
             //   label: "Bahasa Indonesia",
             //   href: "https://t.me/PancakeSwapIndonesia",
@@ -4871,8 +4871,8 @@ var socials = [
             //   label: "Announcements",
             //   href: "https://t.me/PancakeSwapAnn",
             // },
-        ],
-    },
+    //     ],
+    // },
     // {
     //   label: "Reddit",
     //   icon: "Reddit",
@@ -4888,11 +4888,11 @@ var socials = [
         icon: "Github",
         href: "https://github.com/libraxfinance/",
     },
-    // {
-    //   label: "Discord",
-    //   icon: "Discord",
-    //   href: "https://discord.gg/pancakeswap",
-    // },
+    {
+      label: "Discord",
+      icon: "Discord",
+      href: "https://discord.librax.finance/",
+    },
 ];
 __spreadArray([], Array(20)).map(function (_, i) { return ({
     code: "en" + i,
