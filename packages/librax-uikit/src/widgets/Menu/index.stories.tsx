@@ -175,7 +175,7 @@ export const ConnectedWithBanner = ConnectedTemplate.bind({});
 ConnectedWithBanner.args = {
   ...defaultProps,
   banner: (
-    <Flex height="100%" p="16px" alignItems="center" justifyContent="center" background="#7645D9">
+    <Flex height="100%" p="16px" alignItems="center" justifyContent="center" background="#31D0AA">
       <Text color="invertedContrast" mr="8px">
         Banner example
       </Text>

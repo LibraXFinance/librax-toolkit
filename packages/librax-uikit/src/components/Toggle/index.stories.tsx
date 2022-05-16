@@ -28,7 +28,7 @@ export const Default: React.FC = () => {
           onChange={toggle}
           scale="md"
           startIcon={(isActive = false) => (
-            <IconComponent iconName="Sun" color={isActive ? "warning" : "backgroundAlt"} />
+            <IconComponent iconName="Sun" color={isActive ? "invertedContrast" : "backgroundAlt"} />
           )}
           endIcon={(isActive = false) => (
             <IconComponent iconName="Moon" color={isActive ? "secondary" : "backgroundAlt"} />
