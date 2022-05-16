@@ -2029,7 +2029,7 @@ var shadows = {
     active: "0px 0px 0px 1px #0098A1, 0px 0px 4px 8px rgba(31, 199, 212, 0.4)",
     success: "0px 0px 0px 1px #31D0AA, 0px 0px 0px 4px rgba(49, 208, 170, 0.2)",
     warning: "0px 0px 0px 1px #ED4B9E, 0px 0px 0px 4px rgba(237, 75, 158, 0.2)",
-    focus: "0px 0px 0px 1px #31D0AA, 0px 0px 0px 4px rgba(118, 69, 217, 0.6)",
+    focus: "0px 0px 0px 1px #31D0AA, 0px 0px 0px 4px rgba(49, 208, 170, 0.6)",
     inset: "inset 0px 2px 2px -1px rgba(74, 74, 104, 0.1)",
     tooltip: "0px 0px 2px rgba(0, 0, 0, 0.2), 0px 4px 12px -8px rgba(14, 14, 44, 0.1)",
 };
@@ -2190,8 +2190,8 @@ var getBorderColor = function (_a) {
     }
     return theme.colors.cardBorder;
 };
-var StyledCard = styled__default['default'].div(templateObject_3$c || (templateObject_3$c = __makeTemplateObject(["\n  background: ", ";\n  border-radius: ", ";\n  color: ", ";\n  overflow: hidden;\n  position: relative;\n\n  ", "\n\n  padding: 1px 1px 3px 1px;\n\n  ", "\n"], ["\n  background: ", ";\n  border-radius: ", ";\n  color: ", ";\n  overflow: hidden;\n  position: relative;\n\n  ",
-    "\n\n  padding: 1px 1px 3px 1px;\n\n  ", "\n"])), getBorderColor, function (_a) {
+var StyledCard = styled__default['default'].div(templateObject_3$c || (templateObject_3$c = __makeTemplateObject(["\n  background: ", ";\n  border-radius: ", ";\n  color: ", ";\n  overflow: hidden;\n  position: relative;\n\n  ", "\n\n  box-shadow: 0px 0px 30px rgba(255, 255, 255, 0.5);\n\n  ", "\n"], ["\n  background: ", ";\n  border-radius: ", ";\n  color: ", ";\n  overflow: hidden;\n  position: relative;\n\n  ",
+    "\n\n  box-shadow: 0px 0px 30px rgba(255, 255, 255, 0.5);\n\n  ", "\n"])), getBorderColor, function (_a) {
     var theme = _a.theme;
     return theme.radii.card;
 }, function (_a) {
@@ -2900,7 +2900,7 @@ var additionalColors = {
     bronze: "#E7974D",
 };
 var lightColors = __assign(__assign(__assign({}, baseColors), additionalColors), { background: "#0095EC", backgroundDisabled: "#E9EAEB", backgroundAlt: "#0095EC", backgroundAlt2: "rgba(255, 255, 255, 0.7)", cardBorder: "#E7E3EB", contrast: "#191326", dropdown: "#F6F6F6", dropdownDeep: "#EEEEEE", invertedContrast: "#FFFFFF", input: "#eeeaf4", inputSecondary: "#eeeaf4", tertiary: "#EFF4F5", text: "#FAF5FA", textDisabled: "#BDC2C4", textSubtle: "#FFFFFF", disabled: "#E9EAEB", gradients: {
-        bubblegum: "linear-gradient(139.73deg, #E5FDFF 0%, #F3EFFF 100%)",
+        bubblegum: "linear-gradient(139.73deg, #807D7D 0%, #A3A3A3 100%)",
         inverseBubblegum: "linear-gradient(139.73deg, #F3EFFF 0%, #E5FDFF 100%)",
         cardHeader: "linear-gradient(111.68deg, #F2ECF2 0%, #E8F2F6 100%)",
         blue: "linear-gradient(180deg, #A7E8F1 0%, #94E1F2 100%)",
@@ -2908,7 +2908,7 @@ var lightColors = __assign(__assign(__assign({}, baseColors), additionalColors),
         violetAlt: "linear-gradient(180deg, #CBD7EF 0%, #9A9FD0 100%)",
         gold: "linear-gradient(180deg, #FFD800 0%, #FDAB32 100%)",
     } });
-var darkColors = __assign(__assign(__assign({}, baseColors), additionalColors), { secondary: "#FFFFFF", background: "#00001F", backgroundDisabled: "#3c3742", backgroundAlt: "#00001F", backgroundAlt2: "rgba(34, 34, 34, 0.7)", cardBorder: "#383241", contrast: "#FFFFFF", dropdown: "#1E1D20", dropdownDeep: "#100C18", invertedContrast: "#191326", input: "#CCCCCC", inputSecondary: "#262130", primaryDark: "#0098A1", tertiary: "#353547", text: "#F4EEFF", textDisabled: "#666171", textSubtle: "#FFFFFF", disabled: "#524B63", gradients: {
+var darkColors = __assign(__assign(__assign({}, baseColors), additionalColors), { secondary: "#FFFFFF", background: "#00001F", backgroundDisabled: "#3c3742", backgroundAlt: "#00001F", backgroundAlt2: "rgba(34, 34, 34, 0.7)", cardBorder: "#383241", contrast: "#FFFFFF", dropdown: "#1E1D20", dropdownDeep: "#100C18", invertedContrast: "#191326", input: "#7D7C7C", inputSecondary: "#262130", primaryDark: "#0098A1", tertiary: "#353547", text: "#F4EEFF", textDisabled: "#666171", textSubtle: "#FFFFFF", disabled: "#524B63", gradients: {
         bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
         inverseBubblegum: "linear-gradient(139.73deg, #3D2A54 0%, #313D5C 100%)",
         cardHeader: "linear-gradient(166.77deg, #3B4155 0%, #3A3045 100%)",
