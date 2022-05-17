@@ -62,9 +62,9 @@ export const CardHeader: React.FC = () => {
   // This is example how to make card header "overlap" the border.
   // Seems to be easiest solution that works on all screens and does not rely on absolute positioning trickery
   const headerHeight = "60px";
-  const customHeadingColor = "#7645D9";
+  const customHeadingColor = "#31D0AA";
   const gradientStopPoint = `calc(${headerHeight} + 1px)`;
-  const borderBackground = `linear-gradient(${customHeadingColor} ${gradientStopPoint}, ${theme.colors.cardBorder} ${gradientStopPoint})`;
+  const borderBackground = "#31D0AA";
 
   // Gradient overlap is also possible, just put the "dividing" gradient first and after that the header gradient
   const gradientBorderColor = `linear-gradient(transparent ${gradientStopPoint}, ${theme.colors.cardBorder} ${gradientStopPoint}), ${theme.colors.gradients.cardHeader}`;

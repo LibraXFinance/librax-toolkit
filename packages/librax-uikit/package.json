@@ -1,6 +1,6 @@
 {
   "name": "@librax/uikit",
-  "version": "0.0.26",
+  "version": "0.0.27",
   "description": "Set of UI components for LibraX projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",

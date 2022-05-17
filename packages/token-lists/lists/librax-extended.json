@@ -18,7 +18,7 @@
       "symbol": "WASTR",
       "decimals": 18,
       "chainId": 592,
-      "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
+      "logoURI": "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
     },
     {
       "name": "Shiden",
@@ -26,7 +26,7 @@
       "symbol": "WSDN",
       "decimals": 18,
       "chainId": 592,
-      "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
+      "logoURI": "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
     },
     {
       "name": "USDC",
@@ -34,7 +34,7 @@
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 592,
-      "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+      "logoURI": "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
     },
     {
       "name": "DAI",
@@ -42,7 +42,7 @@
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 592,
-      "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
+      "logoURI": "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
     },
     {
       "name": "ETH",
@@ -50,7 +50,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 592,
-      "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
+      "logoURI": "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
     },
     {
       "name": "BTC",
@@ -58,7 +58,7 @@
       "symbol": "BTC",
       "decimals": 18,
       "chainId": 592,
-      "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
+      "logoURI": "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
     },
     {
       "name": "MATIC",
@@ -66,7 +66,7 @@
       "symbol": "MATIC",
       "decimals": 18,
       "chainId": 592,
-      "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
+      "logoURI": "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
     },
     {
       "name": "BNB",
@@ -74,7 +74,7 @@
       "symbol": "BNB",
       "decimals": 18,
       "chainId": 592,
-      "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
+      "logoURI": "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
     },
     {
       "name": "BUSD",
@@ -82,7 +82,7 @@
       "symbol": "BUSD",
       "decimals": 18,
       "chainId": 592,
-      "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
+      "logoURI": "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
     }
   ]
 }

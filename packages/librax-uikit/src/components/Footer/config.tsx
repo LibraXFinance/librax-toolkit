@@ -27,7 +27,7 @@ export const footerLinks: FooterLinkType[] = [
       {
         label: "Online Store",
         href: "https://pancakeswap.creator-spring.com/",
-        isHighlighted: true,
+        isHighlighted: false,
       },
     ],
   },
