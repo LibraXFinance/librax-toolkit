@@ -48,7 +48,7 @@ var tokens$6 = [
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
-		decimals: 6,
+		decimals: 18,
 		chainId: 592,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
@@ -151,7 +151,7 @@ var tokens$5 = [
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
-		decimals: 6,
+		decimals: 18,
 		chainId: 592,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
@@ -254,7 +254,7 @@ var tokens$4 = [
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
-		decimals: 6,
+		decimals: 18,
 		chainId: 592,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
@@ -484,7 +484,7 @@ var tokens$1 = [
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
-		decimals: 6,
+		decimals: 18,
 		chainId: 592,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
@@ -590,7 +590,7 @@ var tokens = [
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
-		decimals: 6,
+		decimals: 18,
 		chainId: 592,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
@@ -681,7 +681,7 @@ var srcDefault = [
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
-		decimals: 6,
+		decimals: 18,
 		chainId: 592,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
@@ -764,7 +764,7 @@ var srcExtended = [
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
-		decimals: 6,
+		decimals: 18,
 		chainId: 592,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
@@ -847,7 +847,7 @@ var srcTop100 = [
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
-		decimals: 6,
+		decimals: 18,
 		chainId: 592,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
@@ -930,7 +930,7 @@ var srcTop15 = [
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
-		decimals: 6,
+		decimals: 18,
 		chainId: 592,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
@@ -1013,7 +1013,7 @@ var srcCoingecko = [
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
-		decimals: 6,
+		decimals: 18,
 		chainId: 592,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
@@ -1096,7 +1096,7 @@ var srcMini = [
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
-		decimals: 6,
+		decimals: 18,
 		chainId: 592,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
@@ -1179,7 +1179,7 @@ var srcMiniExtended = [
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
-		decimals: 6,
+		decimals: 18,
 		chainId: 592,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
