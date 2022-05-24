@@ -680,11 +680,20 @@ const tokens = {
   usdc: {
     symbol: "USDC",
     address: {
-      56: "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      592: "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
       97: "",
     },
     decimals: 18,
     projectLink: "https://www.centre.io/usdc",
+  },
+  jpyc: {
+    symbol: "JPYC",
+    address: {
+      592: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+      97: "",
+    },
+    decimals: 18,
+    projectLink: "https://app.jpyc.jp/",
   },
   dai: {
     symbol: "DAI",

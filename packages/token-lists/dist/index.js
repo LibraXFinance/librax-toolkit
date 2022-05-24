@@ -45,6 +45,14 @@ var tokens$6 = [
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
 	},
 	{
+		name: "JPYC",
+		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+		symbol: "JPYC",
+		decimals: 6,
+		chainId: 592,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+	},
+	{
 		name: "DAI",
 		address: "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
 		symbol: "DAI",
@@ -138,6 +146,14 @@ var tokens$5 = [
 		decimals: 6,
 		chainId: 592,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+	},
+	{
+		name: "JPYC",
+		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+		symbol: "JPYC",
+		decimals: 6,
+		chainId: 592,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
 	{
 		name: "DAI",
@@ -235,6 +251,14 @@ var tokens$4 = [
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
 	},
 	{
+		name: "JPYC",
+		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+		symbol: "JPYC",
+		decimals: 6,
+		chainId: 592,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+	},
+	{
 		name: "DAI",
 		address: "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
 		symbol: "DAI",
@@ -328,6 +352,14 @@ var tokens$3 = [
 		decimals: 6,
 		chainId: 592,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+	},
+	{
+		name: "JPYC",
+		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+		symbol: "JPYC",
+		decimals: 6,
+		chainId: 592,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
 	{
 		name: "DAI",
@@ -449,6 +481,14 @@ var tokens$1 = [
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
 	},
 	{
+		name: "JPYC",
+		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+		symbol: "JPYC",
+		decimals: 6,
+		chainId: 592,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+	},
+	{
 		name: "DAI",
 		address: "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
 		symbol: "DAI",
@@ -547,6 +587,14 @@ var tokens = [
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
 	},
 	{
+		name: "JPYC",
+		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+		symbol: "JPYC",
+		decimals: 6,
+		chainId: 592,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+	},
+	{
 		name: "DAI",
 		address: "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
 		symbol: "DAI",
@@ -630,6 +678,14 @@ var srcDefault = [
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
 	},
 	{
+		name: "JPYC",
+		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+		symbol: "JPYC",
+		decimals: 6,
+		chainId: 592,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+	},
+	{
 		name: "DAI",
 		address: "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
 		symbol: "DAI",
@@ -703,6 +759,14 @@ var srcExtended = [
 		decimals: 6,
 		chainId: 592,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+	},
+	{
+		name: "JPYC",
+		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+		symbol: "JPYC",
+		decimals: 6,
+		chainId: 592,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
 	{
 		name: "DAI",
@@ -780,6 +844,14 @@ var srcTop100 = [
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
 	},
 	{
+		name: "JPYC",
+		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+		symbol: "JPYC",
+		decimals: 6,
+		chainId: 592,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+	},
+	{
 		name: "DAI",
 		address: "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
 		symbol: "DAI",
@@ -853,6 +925,14 @@ var srcTop15 = [
 		decimals: 6,
 		chainId: 592,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+	},
+	{
+		name: "JPYC",
+		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+		symbol: "JPYC",
+		decimals: 6,
+		chainId: 592,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
 	{
 		name: "DAI",
@@ -930,6 +1010,14 @@ var srcCoingecko = [
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
 	},
 	{
+		name: "JPYC",
+		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+		symbol: "JPYC",
+		decimals: 6,
+		chainId: 592,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+	},
+	{
 		name: "DAI",
 		address: "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
 		symbol: "DAI",
@@ -1005,6 +1093,14 @@ var srcMini = [
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
 	},
 	{
+		name: "JPYC",
+		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+		symbol: "JPYC",
+		decimals: 6,
+		chainId: 592,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+	},
+	{
 		name: "DAI",
 		address: "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
 		symbol: "DAI",
@@ -1078,6 +1174,14 @@ var srcMiniExtended = [
 		decimals: 6,
 		chainId: 592,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+	},
+	{
+		name: "JPYC",
+		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+		symbol: "JPYC",
+		decimals: 6,
+		chainId: 592,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
 	{
 		name: "DAI",
