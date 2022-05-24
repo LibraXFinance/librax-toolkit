@@ -680,7 +680,16 @@ declare const tokens: {
     usdc: {
         symbol: string;
         address: {
-            56: string;
+            592: string;
+            97: string;
+        };
+        decimals: number;
+        projectLink: string;
+    };
+    jpyc: {
+        symbol: string;
+        address: {
+            592: string;
             97: string;
         };
         decimals: number;
