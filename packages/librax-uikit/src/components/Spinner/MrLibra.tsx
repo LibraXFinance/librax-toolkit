@@ -5,7 +5,7 @@ import { SvgProps } from "../Svg/types";
 const Icon: React.FC<SvgProps> = (props) => {
   return (
     <Svg viewBox="0 0 128 128" {...props}>
-      <svg width="72.5" height="82.75" viewBox="0 0 290 331" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <svg width="125.5" height="82.75" viewBox="0 0 290 331" fill="none" xmlns="http://www.w3.org/2000/svg">
           <g filter="url(#filter0_f_696_640)">
           <path d="M191.819 271.933L181.773 282.217L204.741 294.075L191.819 271.933Z" fill="#28BBC5"/>
           </g>

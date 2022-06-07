@@ -33,7 +33,7 @@ const Container = styled.div`
 const RotatingPancakeIcon = styled(MrLibra)`
   position: absolute;
   top: 0;
-  left: 0;
+  left: 16;
   animation: ${rotate} 2s linear infinite;
   transform: translate3d(0, 0, 0);
 `;
