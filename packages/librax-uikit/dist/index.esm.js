@@ -2865,10 +2865,10 @@ var additionalColors = {
     silver: "#B2B2B2",
     bronze: "#E7974D",
 };
-var lightColors = __assign(__assign(__assign({}, baseColors), additionalColors), { background: "#0095EC", backgroundDisabled: "#E9EAEB", backgroundAlt: "#0095EC", backgroundAlt2: "rgba(255, 255, 255, 0.7)", cardBorder: "#E7E3EB", contrast: "#191326", dropdown: "#F6F6F6", dropdownDeep: "#EEEEEE", invertedContrast: "#FFFFFF", input: "#eeeaf4", inputSecondary: "#eeeaf4", tertiary: "#EFF4F5", text: "#FAF5FA", textDisabled: "#BDC2C4", textSubtle: "#FFFFFF", disabled: "#E9EAEB", gradients: {
+var lightColors = __assign(__assign(__assign({}, baseColors), additionalColors), { background: "#0095EC", backgroundDisabled: "#E9EAEB", backgroundAlt: "#0095EC", backgroundAlt2: "rgba(255, 255, 255, 0.7)", cardBorder: "#E7E3EB", contrast: "#191326", dropdown: "#F6F6F6", dropdownDeep: "#0083CF", invertedContrast: "#FFFFFF", input: "#0083CF", inputSecondary: "#eeeaf4", tertiary: "#0083CF", text: "#FAF5FA", textDisabled: "#BDC2C4", textSubtle: "#FFFFFF", disabled: "#E9EAEB", gradients: {
         bubblegum: "linear-gradient(139.73deg, #807D7D 0%, #A3A3A3 100%)",
         inverseBubblegum: "linear-gradient(139.73deg, #F3EFFF 0%, #E5FDFF 100%)",
-        cardHeader: "linear-gradient(111.68deg, #F2ECF2 0%, #E8F2F6 100%)",
+        cardHeader: "linear-gradient(96.13deg, #0572B8 14.92%, #0095EC 129.45%)",
         blue: "linear-gradient(180deg, #A7E8F1 0%, #94E1F2 100%)",
         violet: "linear-gradient(180deg, #E2C9FB 0%, #CDB8FA 100%)",
         violetAlt: "linear-gradient(180deg, #CBD7EF 0%, #9A9FD0 100%)",
@@ -3177,7 +3177,7 @@ var Slider = function (_a) {
 
 var Icon = function (props) {
     return (React__default.createElement(Svg, __assign({ viewBox: "0 0 128 128" }, props),
-        React__default.createElement("svg", { width: "72.5", height: "82.75", viewBox: "0 0 290 331", fill: "none", xmlns: "http://www.w3.org/2000/svg" },
+        React__default.createElement("svg", { width: "125.5", height: "82.75", viewBox: "0 0 290 331", fill: "none", xmlns: "http://www.w3.org/2000/svg" },
             React__default.createElement("g", { filter: "url(#filter0_f_696_640)" },
                 React__default.createElement("path", { d: "M191.819 271.933L181.773 282.217L204.741 294.075L191.819 271.933Z", fill: "#28BBC5" })),
             React__default.createElement("g", { filter: "url(#filter1_f_696_640)" },
@@ -3229,7 +3229,7 @@ var Icon = function (props) {
 var rotate = keyframes(templateObject_1$t || (templateObject_1$t = __makeTemplateObject(["\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n"], ["\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n"])));
 var float = keyframes(templateObject_2$i || (templateObject_2$i = __makeTemplateObject(["\n\t0% {\n\t\ttransform: translatey(0px);\n\t}\n\t50% {\n\t\ttransform: translatey(10px);\n\t}\n\t100% {\n\t\ttransform: translatey(0px);\n\t}\n"], ["\n\t0% {\n\t\ttransform: translatey(0px);\n\t}\n\t50% {\n\t\ttransform: translatey(10px);\n\t}\n\t100% {\n\t\ttransform: translatey(0px);\n\t}\n"])));
 var Container = styled.div(templateObject_3$8 || (templateObject_3$8 = __makeTemplateObject(["\n  position: relative;\n"], ["\n  position: relative;\n"])));
-styled(Icon)(templateObject_4$6 || (templateObject_4$6 = __makeTemplateObject(["\n  position: absolute;\n  top: 0;\n  left: 0;\n  animation: ", " 2s linear infinite;\n  transform: translate3d(0, 0, 0);\n"], ["\n  position: absolute;\n  top: 0;\n  left: 0;\n  animation: ", " 2s linear infinite;\n  transform: translate3d(0, 0, 0);\n"])), rotate);
+styled(Icon)(templateObject_4$6 || (templateObject_4$6 = __makeTemplateObject(["\n  position: absolute;\n  top: 0;\n  left: 16;\n  animation: ", " 2s linear infinite;\n  transform: translate3d(0, 0, 0);\n"], ["\n  position: absolute;\n  top: 0;\n  left: 16;\n  animation: ", " 2s linear infinite;\n  transform: translate3d(0, 0, 0);\n"])), rotate);
 var FloatingPanIcon = styled(Icon)(templateObject_5$4 || (templateObject_5$4 = __makeTemplateObject(["\n  animation: ", " 2s ease-in-out infinite;\n  transform: translate3d(0, 0, 0);\n"], ["\n  animation: ", " 2s ease-in-out infinite;\n  transform: translate3d(0, 0, 0);\n"])), float);
 var Spinner = function (_a) {
     var _b = _a.size, size = _b === void 0 ? 128 : _b;
