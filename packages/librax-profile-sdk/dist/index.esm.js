@@ -1719,8 +1719,8 @@ var profileABI = [
 
 var addresses = {
     pancakeProfile: {
-        56: "0xDf4dBf6536201370F95e06A0F8a7a70fE40E388a",
-        97: "0x4B683C7E13B6d5D7fd1FeA9530F451954c1A7c8A",
+        43114: "0xDf4dBf6536201370F95e06A0F8a7a70fE40E388a",
+        43113: "0x4B683C7E13B6d5D7fd1FeA9530F451954c1A7c8A",
     },
 };
 
@@ -2028,15 +2028,15 @@ var _a;
 var nftSources = (_a = {},
     _a[NftType.PANCAKE] = {
         address: {
-            56: "0xDf7952B35f24aCF7fC0487D01c8d5690a60DBa07",
-            97: "0x60935F36e4631F73f0f407e68642144e07aC7f5E",
+            43114: "0xDf7952B35f24aCF7fC0487D01c8d5690a60DBa07",
+            43113: "0x60935F36e4631F73f0f407e68642144e07aC7f5E",
         },
         identifierKey: "image",
     },
     _a[NftType.MIXIE] = {
         address: {
-            56: "0xa251b5EAa9E67F2Bc8b33F33e20E91552Bf85566",
-            97: "",
+            43114: "0xa251b5EAa9E67F2Bc8b33F33e20E91552Bf85566",
+            43113: "",
         },
         identifierKey: "image",
     },

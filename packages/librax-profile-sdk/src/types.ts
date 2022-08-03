@@ -1,6 +1,6 @@
 export interface Address {
   97?: string;
-  56: string;
+  43114: string;
 }
 
 export type Images = {

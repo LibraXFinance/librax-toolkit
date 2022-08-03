@@ -21,84 +21,92 @@ var keywords$6 = [
 ];
 var tokens$6 = [
 	{
-		name: "Astar",
-		address: "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
-		symbol: "WASTR",
+		name: "Avalanche",
+		address: "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+		symbol: "WAVAX",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.png"
 	},
 	{
 		name: "Shiden",
 		address: "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
 		symbol: "WSDN",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
 	},
 	{
 		name: "USDC",
-		address: "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+		address: "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
 		symbol: "USDC",
 		decimals: 6,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
+	},
+	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
 	},
 	{
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
 	{
 		name: "DAI",
 		address: "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
 		symbol: "DAI",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
 	},
 	{
 		name: "ETH",
 		address: "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
 		symbol: "ETH",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
 	},
 	{
 		name: "BTC",
 		address: "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
 		symbol: "BTC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
 	},
 	{
 		name: "MATIC",
 		address: "0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF",
 		symbol: "MATIC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
 	},
 	{
 		name: "BNB",
 		address: "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
 		symbol: "BNB",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
 	},
 	{
 		name: "BUSD",
 		address: "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
 		symbol: "BUSD",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
 	}
 ];
 var defaultList = {
@@ -124,84 +132,92 @@ var keywords$5 = [
 ];
 var tokens$5 = [
 	{
-		name: "Astar",
-		address: "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
-		symbol: "WASTR",
+		name: "Avalanche",
+		address: "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+		symbol: "WAVAX",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.png"
 	},
 	{
 		name: "Shiden",
 		address: "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
 		symbol: "WSDN",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
 	},
 	{
 		name: "USDC",
-		address: "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+		address: "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
 		symbol: "USDC",
 		decimals: 6,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
+	},
+	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
 	},
 	{
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
 	{
 		name: "DAI",
 		address: "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
 		symbol: "DAI",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
 	},
 	{
 		name: "ETH",
 		address: "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
 		symbol: "ETH",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
 	},
 	{
 		name: "BTC",
 		address: "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
 		symbol: "BTC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
 	},
 	{
 		name: "MATIC",
 		address: "0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF",
 		symbol: "MATIC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
 	},
 	{
 		name: "BNB",
 		address: "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
 		symbol: "BNB",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
 	},
 	{
 		name: "BUSD",
 		address: "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
 		symbol: "BUSD",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
 	}
 ];
 var extendedtList = {
@@ -227,84 +243,92 @@ var keywords$4 = [
 ];
 var tokens$4 = [
 	{
-		name: "Astar",
-		address: "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
-		symbol: "WASTR",
+		name: "Avalanche",
+		address: "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+		symbol: "WAVAX",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.png"
 	},
 	{
 		name: "Shiden",
 		address: "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
 		symbol: "WSDN",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
 	},
 	{
 		name: "USDC",
-		address: "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+		address: "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
 		symbol: "USDC",
 		decimals: 6,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
+	},
+	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
 	},
 	{
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
 	{
 		name: "DAI",
 		address: "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
 		symbol: "DAI",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
 	},
 	{
 		name: "ETH",
 		address: "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
 		symbol: "ETH",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
 	},
 	{
 		name: "BTC",
 		address: "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
 		symbol: "BTC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
 	},
 	{
 		name: "MATIC",
 		address: "0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF",
 		symbol: "MATIC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
 	},
 	{
 		name: "BNB",
 		address: "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
 		symbol: "BNB",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
 	},
 	{
 		name: "BUSD",
 		address: "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
 		symbol: "BUSD",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
 	}
 ];
 var top15List = {
@@ -330,84 +354,92 @@ var keywords$3 = [
 ];
 var tokens$3 = [
 	{
-		name: "Astar",
-		address: "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
-		symbol: "WASTR",
+		name: "Avalanche",
+		address: "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+		symbol: "WAVAX",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.png"
 	},
 	{
 		name: "Shiden",
 		address: "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
 		symbol: "WSDN",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
 	},
 	{
 		name: "USDC",
-		address: "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+		address: "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
 		symbol: "USDC",
 		decimals: 6,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
+	},
+	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
 	},
 	{
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
 		decimals: 6,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
 	{
 		name: "DAI",
 		address: "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
 		symbol: "DAI",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
 	},
 	{
 		name: "ETH",
 		address: "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
 		symbol: "ETH",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
 	},
 	{
 		name: "BTC",
 		address: "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
 		symbol: "BTC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
 	},
 	{
 		name: "MATIC",
 		address: "0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF",
 		symbol: "MATIC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
 	},
 	{
 		name: "BNB",
 		address: "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
 		symbol: "BNB",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
 	},
 	{
 		name: "BUSD",
 		address: "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
 		symbol: "BUSD",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
 	}
 ];
 var top100tList = {
@@ -426,7 +458,7 @@ var version$2 = {
 	minor: 0,
 	patch: 5
 };
-var logoURI$2 = "https://www.coingecko.com/assets/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png";
+var logoURI$2 = "https://www.coingecko.com/assets/thumbnail-007177f3eca1969543114f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png";
 var keywords$2 = [
 	"defi"
 ];
@@ -457,84 +489,92 @@ var keywords$1 = [
 ];
 var tokens$1 = [
 	{
-		name: "Astar",
-		address: "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
-		symbol: "WASTR",
+		name: "Avalanche",
+		address: "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+		symbol: "WAVAX",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.png"
 	},
 	{
 		name: "Shiden",
 		address: "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
 		symbol: "WSDN",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
 	},
 	{
 		name: "USDC",
-		address: "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+		address: "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
 		symbol: "USDC",
 		decimals: 6,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
+	},
+	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
 	},
 	{
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
 	{
 		name: "DAI",
 		address: "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
 		symbol: "DAI",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
 	},
 	{
 		name: "ETH",
 		address: "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
 		symbol: "ETH",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
 	},
 	{
 		name: "BTC",
 		address: "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
 		symbol: "BTC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
 	},
 	{
 		name: "MATIC",
 		address: "0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF",
 		symbol: "MATIC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
 	},
 	{
 		name: "BNB",
 		address: "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
 		symbol: "BNB",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
 	},
 	{
 		name: "BUSD",
 		address: "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
 		symbol: "BUSD",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
 	}
 ];
 var miniList = {
@@ -563,84 +603,92 @@ var keywords = [
 ];
 var tokens = [
 	{
-		name: "Astar",
-		address: "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
-		symbol: "WASTR",
+		name: "Avalanche",
+		address: "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+		symbol: "WAVAX",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.png"
 	},
 	{
 		name: "Shiden",
 		address: "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
 		symbol: "WSDN",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
 	},
 	{
 		name: "USDC",
-		address: "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+		address: "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
 		symbol: "USDC",
 		decimals: 6,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
+	},
+	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
 	},
 	{
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
 	{
 		name: "DAI",
 		address: "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
 		symbol: "DAI",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
 	},
 	{
 		name: "ETH",
 		address: "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
 		symbol: "ETH",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
 	},
 	{
 		name: "BTC",
 		address: "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
 		symbol: "BTC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
 	},
 	{
 		name: "MATIC",
 		address: "0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF",
 		symbol: "MATIC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
 	},
 	{
 		name: "BNB",
 		address: "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
 		symbol: "BNB",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
 	},
 	{
 		name: "BUSD",
 		address: "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
 		symbol: "BUSD",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
 	}
 ];
 var miniExtendedList = {
@@ -654,582 +702,638 @@ var miniExtendedList = {
 
 var srcDefault = [
 	{
-		name: "Astar",
-		address: "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
-		symbol: "WASTR",
+		name: "Avalanche",
+		address: "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+		symbol: "WAVAX",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.png"
 	},
 	{
 		name: "Shiden",
 		address: "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
 		symbol: "WSDN",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
 	},
 	{
 		name: "USDC",
-		address: "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+		address: "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
 		symbol: "USDC",
 		decimals: 6,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
+	},
+	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
 	},
 	{
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
 	{
 		name: "DAI",
 		address: "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
 		symbol: "DAI",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
 	},
 	{
 		name: "ETH",
 		address: "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
 		symbol: "ETH",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
 	},
 	{
 		name: "BTC",
 		address: "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
 		symbol: "BTC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
 	},
 	{
 		name: "MATIC",
 		address: "0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF",
 		symbol: "MATIC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
 	},
 	{
 		name: "BNB",
 		address: "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
 		symbol: "BNB",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
 	},
 	{
 		name: "BUSD",
 		address: "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
 		symbol: "BUSD",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
 	}
 ];
 
 var srcExtended = [
 	{
-		name: "Astar",
-		address: "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
-		symbol: "WASTR",
+		name: "Avalanche",
+		address: "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+		symbol: "WAVAX",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.png"
 	},
 	{
 		name: "Shiden",
 		address: "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
 		symbol: "WSDN",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
 	},
 	{
 		name: "USDC",
-		address: "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+		address: "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
 		symbol: "USDC",
 		decimals: 6,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
+	},
+	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
 	},
 	{
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
 	{
 		name: "DAI",
 		address: "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
 		symbol: "DAI",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
 	},
 	{
 		name: "ETH",
 		address: "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
 		symbol: "ETH",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
 	},
 	{
 		name: "BTC",
 		address: "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
 		symbol: "BTC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
 	},
 	{
 		name: "MATIC",
 		address: "0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF",
 		symbol: "MATIC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
 	},
 	{
 		name: "BNB",
 		address: "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
 		symbol: "BNB",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
 	},
 	{
 		name: "BUSD",
 		address: "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
 		symbol: "BUSD",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
 	}
 ];
 
 var srcTop100 = [
 	{
-		name: "Astar",
-		address: "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
-		symbol: "WASTR",
+		name: "Avalanche",
+		address: "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+		symbol: "WAVAX",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.png"
 	},
 	{
 		name: "Shiden",
 		address: "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
 		symbol: "WSDN",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
 	},
 	{
 		name: "USDC",
-		address: "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+		address: "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
 		symbol: "USDC",
 		decimals: 6,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
+	},
+	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
 	},
 	{
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
 	{
 		name: "DAI",
 		address: "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
 		symbol: "DAI",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
 	},
 	{
 		name: "ETH",
 		address: "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
 		symbol: "ETH",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
 	},
 	{
 		name: "BTC",
 		address: "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
 		symbol: "BTC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
 	},
 	{
 		name: "MATIC",
 		address: "0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF",
 		symbol: "MATIC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
 	},
 	{
 		name: "BNB",
 		address: "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
 		symbol: "BNB",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
 	},
 	{
 		name: "BUSD",
 		address: "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
 		symbol: "BUSD",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
 	}
 ];
 
 var srcTop15 = [
 	{
-		name: "Astar",
-		address: "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
-		symbol: "WASTR",
+		name: "Avalanche",
+		address: "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+		symbol: "WAVAX",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.png"
 	},
 	{
 		name: "Shiden",
 		address: "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
 		symbol: "WSDN",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
 	},
 	{
 		name: "USDC",
-		address: "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+		address: "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
 		symbol: "USDC",
 		decimals: 6,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
+	},
+	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
 	},
 	{
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
 	{
 		name: "DAI",
 		address: "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
 		symbol: "DAI",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
 	},
 	{
 		name: "ETH",
 		address: "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
 		symbol: "ETH",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
 	},
 	{
 		name: "BTC",
 		address: "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
 		symbol: "BTC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
 	},
 	{
 		name: "MATIC",
 		address: "0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF",
 		symbol: "MATIC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
 	},
 	{
 		name: "BNB",
 		address: "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
 		symbol: "BNB",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
 	},
 	{
 		name: "BUSD",
 		address: "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
 		symbol: "BUSD",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
 	}
 ];
 
 var srcCoingecko = [
 	{
-		name: "Astar",
-		address: "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
-		symbol: "WASTR",
+		name: "Avalanche",
+		address: "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+		symbol: "WAVAX",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.png"
 	},
 	{
 		name: "Shiden",
 		address: "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
 		symbol: "WSDN",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
 	},
 	{
 		name: "USDC",
-		address: "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+		address: "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
 		symbol: "USDC",
 		decimals: 6,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
+	},
+	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
 	},
 	{
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
 	{
 		name: "DAI",
 		address: "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
 		symbol: "DAI",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
 	},
 	{
 		name: "ETH",
 		address: "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
 		symbol: "ETH",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
 	},
 	{
 		name: "BTC",
 		address: "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
 		symbol: "BTC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
 	},
 	{
 		name: "MATIC",
 		address: "0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF",
 		symbol: "MATIC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
 	},
 	{
 		name: "BNB",
 		address: "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
 		symbol: "BNB",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
 	},
 	{
 		name: "BUSD",
 		address: "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
 		symbol: "BUSD",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
 	}
 ];
 
 var srcMini = [
 	{
-		name: "Astar",
-		address: "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
-		symbol: "WASTR",
+		name: "Avalanche",
+		address: "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+		symbol: "WAVAX",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.png"
 	},
 	{
 		name: "Shiden",
 		address: "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
 		symbol: "WSDN",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
 	},
 	{
 		name: "USDC",
-		address: "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+		address: "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
 		symbol: "USDC",
 		decimals: 6,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
+	},
+	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
 	},
 	{
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
 	{
 		name: "DAI",
 		address: "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
 		symbol: "DAI",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
 	},
 	{
 		name: "ETH",
 		address: "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
 		symbol: "ETH",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
 	},
 	{
 		name: "BTC",
 		address: "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
 		symbol: "BTC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
 	},
 	{
 		name: "MATIC",
 		address: "0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF",
 		symbol: "MATIC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
 	},
 	{
 		name: "BNB",
 		address: "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
 		symbol: "BNB",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
 	},
 	{
 		name: "BUSD",
 		address: "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
 		symbol: "BUSD",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
 	}
 ];
 
 var srcMiniExtended = [
 	{
-		name: "Astar",
-		address: "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
-		symbol: "WASTR",
+		name: "Avalanche",
+		address: "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+		symbol: "WAVAX",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.png"
 	},
 	{
 		name: "Shiden",
 		address: "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
 		symbol: "WSDN",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
 	},
 	{
 		name: "USDC",
-		address: "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+		address: "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
 		symbol: "USDC",
 		decimals: 6,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
+	},
+	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
 	},
 	{
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
 	},
 	{
 		name: "DAI",
 		address: "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
 		symbol: "DAI",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
 	},
 	{
 		name: "ETH",
 		address: "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
 		symbol: "ETH",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
 	},
 	{
 		name: "BTC",
 		address: "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
 		symbol: "BTC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
 	},
 	{
 		name: "MATIC",
 		address: "0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF",
 		symbol: "MATIC",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
 	},
 	{
 		name: "BNB",
 		address: "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
 		symbol: "BNB",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
 	},
 	{
 		name: "BUSD",
 		address: "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
 		symbol: "BUSD",
 		decimals: 18,
-		chainId: 592,
-		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/astar/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
 	}
 ];
 
@@ -1276,14 +1380,14 @@ var lists$2 = {
         list: srcCoingecko,
         name: "CoinGecko",
         keywords: ["defi"],
-        logoURI: "https://www.coingecko.com/assets/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+        logoURI: "https://www.coingecko.com/assets/thumbnail-007177f3eca1969543114f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
         sort: true,
         currentVersion: version$2,
     },
     "librax-mini": {
         list: srcMini,
         name: "LibraX Mini",
-        keywords: ["librax", "astar", "mini program", "mini"],
+        keywords: ["librax", "avalanche", "mini program", "mini"],
         logoURI: "https://librax.finance/logo.png",
         sort: true,
         currentVersion: version$1,
@@ -1291,7 +1395,7 @@ var lists$2 = {
     "librax-mini-extended": {
         list: srcMiniExtended,
         name: "LibraX Mini Ext",
-        keywords: ["librax", "astar", "mini program", "mini", "extended"],
+        keywords: ["librax", "avalanche", "mini program", "mini", "extended"],
         logoURI: "https://librax.finance/logo.png",
         sort: true,
         currentVersion: version,

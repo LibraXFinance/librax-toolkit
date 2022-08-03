@@ -72,7 +72,7 @@ const lists = {
   "librax-mini": {
     list: libraxMini,
     name: "LibraX Mini",
-    keywords: ["librax", "astar", "mini program", "mini"],
+    keywords: ["librax", "avalanche", "mini program", "mini"],
     logoURI: "https://librax.finance/logo.png",
     sort: true,
     currentVersion: libraxMiniVersion,
@@ -80,7 +80,7 @@ const lists = {
   "librax-mini-extended": {
     list: libraxMiniExtended,
     name: "LibraX Mini Ext",
-    keywords: ["librax", "astar", "mini program", "mini", "extended"],
+    keywords: ["librax", "avalanche", "mini program", "mini", "extended"],
     logoURI: "https://librax.finance/logo.png",
     sort: true,
     currentVersion: libraxMiniExtendedVersion,

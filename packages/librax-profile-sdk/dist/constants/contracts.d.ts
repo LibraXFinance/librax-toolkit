@@ -1,7 +1,7 @@
 declare const _default: {
     pancakeProfile: {
-        56: string;
-        97: string;
+        43114: string;
+        43113: string;
     };
 };
 export default _default;
