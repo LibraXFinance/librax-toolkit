@@ -4771,7 +4771,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "Twitter",
-        href: "https://twitter.com/LibraXAvalanche",
+        href: "https://twitter.com/LibraXAvax",
     },
     {
         label: "Telegram",

@@ -458,7 +458,7 @@ var version$2 = {
 	minor: 0,
 	patch: 5
 };
-var logoURI$2 = "https://www.coingecko.com/assets/thumbnail-007177f3eca1969543114f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png";
+var logoURI$2 = "https://www.coingecko.com/assets/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png";
 var keywords$2 = [
 	"defi"
 ];
@@ -1380,7 +1380,7 @@ var lists$2 = {
         list: srcCoingecko,
         name: "CoinGecko",
         keywords: ["defi"],
-        logoURI: "https://www.coingecko.com/assets/thumbnail-007177f3eca1969543114f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+        logoURI: "https://www.coingecko.com/assets/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
         sort: true,
         currentVersion: version$2,
     },
