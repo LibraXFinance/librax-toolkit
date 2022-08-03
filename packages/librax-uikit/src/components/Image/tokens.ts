@@ -2,14 +2,14 @@
  * @see https://github.com/pancakeswap/pancake-frontend/blob/develop/src/config/constants/tokens.ts
  */
 const tokens = {
-  wastr: {
-    symbol: "WASTR",
+  wavax: {
+    symbol: "WAVAX",
     address: {
-      592: "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
+      43114: "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
       336: "",
     },
     decimals: 18,
-    projectLink: "",
+    projectLink: "https://www.avax.network/",
   },
   txl: {
     symbol: "TXL",

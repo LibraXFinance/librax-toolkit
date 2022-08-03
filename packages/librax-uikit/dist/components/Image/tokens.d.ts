@@ -2,10 +2,10 @@
  * @see https://github.com/pancakeswap/pancake-frontend/blob/develop/src/config/constants/tokens.ts
  */
 declare const tokens: {
-    wastr: {
+    wavax: {
         symbol: string;
         address: {
-            592: string;
+            43114: string;
             336: string;
         };
         decimals: number;
