@@ -683,8 +683,17 @@ const tokens = {
       43114: "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
       43113: "",
     },
-    decimals: 18,
+    decimals: 6,
     projectLink: "https://www.centre.io/usdc",
+  },
+  usdce: {
+    symbol: "USDC.e",
+    address: {
+      43114: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+      43113: "",
+    },
+    decimals: 6,
+    projectLink: "https://www.centre.io/",
   },
   jpyc: {
     symbol: "JPYC",

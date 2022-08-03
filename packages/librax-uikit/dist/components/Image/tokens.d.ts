@@ -686,6 +686,15 @@ declare const tokens: {
         decimals: number;
         projectLink: string;
     };
+    usdce: {
+        symbol: string;
+        address: {
+            43114: string;
+            43113: string;
+        };
+        decimals: number;
+        projectLink: string;
+    };
     jpyc: {
         symbol: string;
         address: {

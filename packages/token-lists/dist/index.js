@@ -45,6 +45,14 @@ var tokens$6 = [
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
 	},
 	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
+	},
+	{
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
@@ -146,6 +154,14 @@ var tokens$5 = [
 		decimals: 6,
 		chainId: 43114,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
+	},
+	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
 	},
 	{
 		name: "JPYC",
@@ -251,6 +267,14 @@ var tokens$4 = [
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
 	},
 	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
+	},
+	{
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
@@ -352,6 +376,14 @@ var tokens$3 = [
 		decimals: 6,
 		chainId: 43114,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
+	},
+	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
 	},
 	{
 		name: "JPYC",
@@ -481,6 +513,14 @@ var tokens$1 = [
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
 	},
 	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
+	},
+	{
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
@@ -587,6 +627,14 @@ var tokens = [
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
 	},
 	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
+	},
+	{
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
@@ -678,6 +726,14 @@ var srcDefault = [
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
 	},
 	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
+	},
+	{
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
@@ -759,6 +815,14 @@ var srcExtended = [
 		decimals: 6,
 		chainId: 43114,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
+	},
+	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
 	},
 	{
 		name: "JPYC",
@@ -844,6 +908,14 @@ var srcTop100 = [
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
 	},
 	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
+	},
+	{
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
@@ -925,6 +997,14 @@ var srcTop15 = [
 		decimals: 6,
 		chainId: 43114,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
+	},
+	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
 	},
 	{
 		name: "JPYC",
@@ -1010,6 +1090,14 @@ var srcCoingecko = [
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
 	},
 	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
+	},
+	{
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
@@ -1093,6 +1181,14 @@ var srcMini = [
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
 	},
 	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
+	},
+	{
 		name: "JPYC",
 		address: "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		symbol: "JPYC",
@@ -1174,6 +1270,14 @@ var srcMiniExtended = [
 		decimals: 6,
 		chainId: 43114,
 		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
+	},
+	{
+		name: "USDC.e",
+		address: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		symbol: "USDC.e",
+		decimals: 6,
+		chainId: 43114,
+		logoURI: "https://raw.githubusercontent.com/LibraXFinance/librax-assets/main/avalanche/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
 	},
 	{
 		name: "JPYC",
